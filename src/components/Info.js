@@ -3,9 +3,9 @@ import React from "react";
 
 // Custom
 import ProfileImg from "../images/me.png";
-import styles from "Info.module.css";
+import styles from "./Info.module.css";
 import emailLogo from "../images/Email-logo.png";
-import linkedLogo from "../images/Linkedin-logo.png";
+import linkedLogo from "../images/LinkedIn-logo.png";
 
 export default function Info() {
     return(
@@ -34,7 +34,7 @@ export default function Info() {
                     <a
                         target="_blank"
                         rel="noopener noreferrer"
-                        className={`${styles.links} ${styles.email}`}
+                        className={`${styles.links} ${styles.linkedin}`}
                         href="https://www.linkedin.com/in/dean-o-rourke-41753217a/"
                     >
                         <img className={styles.icons} src={linkedLogo} alt="linkedin logo" /> LinkedIn
