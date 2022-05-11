@@ -3,7 +3,7 @@
     background-color: #D5D4D8;
     justify-content: center;
     align-items: center;
-    width: 600px;
+    width: 500px;
     border-bottom-right-radius: 25px;
     border-bottom-left-radius: 25px;
 }
@@ -20,5 +20,5 @@
 
 .socialIcons:hover,
 .socialIcons:focus {
-    background-color: #A496CE;
+    background-color: #a496ce;
 }

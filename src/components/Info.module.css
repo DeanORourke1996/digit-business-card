@@ -3,12 +3,12 @@
 }
 
 .header {
-    height: 300px;
+    height: 100px;
 }
 
 .avatar {
-    width: 600px;
-    height: auto;
+    width: 500px;
+    height: 590px;
     border-top-right-radius: 15%;
     border-top-left-radius: 15%;
 }
